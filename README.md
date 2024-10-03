@@ -1,9 +1,8 @@
+# Shah Fazle Elahi
+## About Me
 
-<h3 align="center">Shah Fazle Elahi</h3>
-<br />
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShahfazleElahi&show_icons=true)
+I'm Shah Fazle Elahi, a passionate programmer, researcher, athlete, jurisprudence student, and devoted family man. I create impactful software solutions, explore emerging trends, and balance my technical pursuits with a deep love for football and law. My journey is fueled by curiosity, teamwork, and a commitment to growth, all while cherishing my family's support. Here's a bit about me:
 
 <br/>
 
@@ -35,13 +34,6 @@
 </p>
 
 <br/>
-
-
-# 👋 Hi, I'm Shah Fazle Elahi
-## 🚀 About Me
-
-
-I'm Shah Fazle Elahi, a passionate programmer, researcher, athlete, jurisprudence student, and devoted family man. I create impactful software solutions, explore emerging trends, and balance my technical pursuits with a deep love for football and law. My journey is fueled by curiosity, teamwork, and a commitment to growth, all while cherishing my family's support. Here's a bit about me:
 
 ## 🛠️ Technologies & Tools
 
