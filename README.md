@@ -56,9 +56,9 @@ Here are some of the technologies I've worked with:
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/YourProfile)
-[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@YourProfile)
-[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/u/YourProfile)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/YourProfileID)
-[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YourWebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/shahfazleelahi)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/shahfazleelahi)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@shahfazleelahi)
+[![CodeSandbox](https://img.shields.io/badge/CodeSandbox-000000?style=for-the-badge&logo=codesandbox&logoColor=white)](https://codesandbox.io/dashboard/recent?workspace=8b2f966b-b770-4de5-bd7c-21f51a261682)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26531397/shah-fazle-elahi-shaki)
+[![Personal Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://shahfazleelahi.netlify.app/)
