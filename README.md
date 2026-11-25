@@ -11,7 +11,6 @@
 
 </div>
 
-
 ## About Me
 
 I am **Shah Fazle Elahi**, a Full Stack Software Developer,
@@ -31,6 +30,94 @@ developing practical solutions to complex real-world problems.
 I believe in continuous learning, responsible innovation,
 research-driven development, and the meaningful application
 of technology.
+## Professional Certification
+
+<div align="start">
+
+<!-- AWS Certifications -->
+
+<img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="60" title="AWS Solutions Architect Professional"/>
+<img src="https://images.credly.com/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png" width="60" title="AWS DevOps Engineer Professional"/>
+<img src="https://images.credly.com/images/52c6e5ac-9516-4944-a4df-e31b23c9bbf2/blob" width="60" title="AWS Generative AI Developer Professional"/>
+<img src="https://images.credly.com/images/53acdae5-d69f-4dda-b650-d02ed7a50dd7/image.png" width="60" title="AWS Security Specialty"/>
+<img src="https://images.credly.com/images/4d08274f-64c1-495e-986b-3143f51b1371/image.png" width="60" title="AWS Advanced Networking Specialty"/>
+<img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="60" title="AWS Solutions Architect Associate"/>
+<img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="60" title="AWS Developer Associate"/>
+<img src="https://images.credly.com/images/e5c85d7f-4e50-431e-b5af-fa9d9b0596e7/image.png" width="60" title="AWS Data Engineer Associate"/>
+<img src="https://images.credly.com/images/1a634b4e-3d6b-4a74-b118-c0dcb429e8d2/image.png" width="60" title="AWS Machine Learning Engineer"/>
+
+<!-- Google Cloud Certifications -->
+
+<img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="60" title="Google Professional Cloud Architect"/>
+<img src="https://images.credly.com/images/614465c6-1d80-4ae6-a323-753de224422a/image.png" width="60" title="Google Professional Cloud Developer"/>
+<img src="https://images.credly.com/images/05e71e7e-92a1-4821-8530-4176b2e3c4b4/image.png" width="60" title="Google Professional Machine Learning Engineer"/>
+<img src="https://images.credly.com/images/33f08b7e-fa6a-41cd-810a-21cc1c336f6d/image.png" width="60" title="Google Professional Cloud DevOps Engineer"/>
+<img src="https://images.credly.com/images/4ea0ec5c-6258-4c26-9282-6ed233c0c7ac/image.png" width="60" title="Google Professional Cloud Security Engineer"/>
+<img src="https://images.credly.com/images/2d613ff8-8879-430b-b2d8-925fa29785e8/image.png" width="60" title="Google Professional Data Engineer"/>
+<img src="https://images.credly.com/images/08a802bf-f2fa-44fb-8110-92acf6195738/image.png" width="60" title="Google Professional Cloud Network Engineer"/>
+
+<!-- GitHub Certifications -->
+
+<img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="60" title="GitHub Administration"/>
+<img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" width="60" title="GitHub Actions"/>
+<img src="https://images.credly.com/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" width="60" title="GitHub Advanced Security"/>
+<img src="https://images.credly.com/images/6b924fae-3cd7-4233-b012-97413c62c85d/blob" width="60" title="GitHub Copilot"/>
+
+<!-- Kubernetes Certifications -->
+
+<img src="https://images.credly.com/images/8b8ed108-e77d-4396-ac59-2504583b9d54/cka_from_cncfsite__281_29.png" width="60" title="Certified Kubernetes Administrator"/>
+<img src="https://images.credly.com/images/cc8adc83-1dc6-4d57-8e20-22171247e052/blob" width="60" title="Certified Kubernetes Application Developer"/>
+<img src="https://images.credly.com/images/9945dfcb-1cca-4529-85e6-db1be3782210/kubernetes-security-specialist-logo2.png" width="60" title="Certified Kubernetes Security Specialist"/>
+<img src="https://images.credly.com/images/cd6c6449-6814-4613-a2d3-13cf4ac5be4f/image.png" width="60" title="Kubestronaut"/>
+<img src="https://images.credly.com/images/1dba0197-1013-4f23-8918-9479f77172d6/blob" width="60" title="Golden Kubestronaut"/>
+
+<!-- ISC2 Certifications -->
+
+<img src="https://images.credly.com/images/6eeb0a98-33cb-4f72-bfc3-f89d65a3286c/image.png" width="60" title="ISC2 CISSP"/>
+<img src="https://images.credly.com/images/38b12225-5b48-44e1-8750-20928cc595ea/image.png" width="60" title="ISC2 CCSP"/>
+<img src="https://images.credly.com/images/2ca15936-bd13-4db9-86cb-8da72a71d701/image.png" width="60" title="ISC2 CSSLP"/>
+<img src="https://images.credly.com/images/99604367-38e0-4da1-9566-d1b591edb026/image.png" width="60" title="ISC2 CGRC"/>
+
+<!-- CompTIA Certifications -->
+
+<img src="https://images.credly.com/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob" width="60" title="CompTIA Security+"/>
+<img src="https://images.credly.com/images/dcd99b5b-da24-40a6-9364-62126d590c37/blob" width="60" title="CompTIA CySA+"/>
+<img src="https://images.credly.com/images/c7ac176b-15a3-4726-827a-e8cee8fe44dc/blob" width="60" title="CompTIA PenTest+"/>
+<img src="https://images.credly.com/images/eb876a27-49d1-4644-a602-abfc74e084f0/CompTIA_Linux_2B.png" width="60" title="CompTIA Linux+"/>
+
+<!-- ISACA Certifications -->
+
+<img src="https://images.credly.com/images/d8b54d17-692a-4151-8e2e-e3c8c1a89ec1/b415cf50edc1955df11b9046c68b7e2debbd41f1.png" width="60" title="ISACA CISA"/>
+<img src="https://images.credly.com/images/d0891dee-6360-496c-9981-40652523b502/dbdea6794f1a6bbcc18d90eea923421aac7df6b5.png" width="60" title="ISACA CISM"/>
+<img src="https://images.credly.com/images/ae3fd7fe-ace5-4a72-867b-6e2d93dd4caa/018bc8478c84ec2a681e649c4718a690a7445617.png" width="60" title="ISACA CRISC"/>
+<img src="https://images.credly.com/images/fae5b907-04c2-4013-abbd-b469dd337bb8/58378d269383d34bde29a49abfd59e643a0f12a8.png" width="60" title="ISACA CGEIT"/>
+<img src="https://images.credly.com/images/20e0e50d-6dc6-45e4-b0c6-89cca34d4652/CDPSE_Badge-600x600.png" width="60" title="ISACA CDPSE"/>
+
+<!-- Cisco Professional Certifications -->
+
+<img src="https://images.credly.com/images/07f70c56-f067-458e-bbe5-736f055f0cce/CCNP_Enterprise_large.png" width="60" title="Cisco CCNP Enterprise"/>
+<img src="https://images.credly.com/images/cd769843-4907-4d1a-9702-0512eb87ae6e/cisco_ccnp_security.png" width="60" title="Cisco CCNP Security"/>
+<img src="https://images.credly.com/images/94815c25-cd60-4d27-b722-45c62ef03fa6/cisco_ccnp_datacenter.png" width="60" title="Cisco CCNP Data Center"/>
+<img src="https://images.credly.com/images/97f6414d-25a3-41fb-8f7d-741ac1ad4386/cisco_ccnp_collaboration.png" width="60" title="Cisco CCNP Collaboration"/>
+<img src="https://images.credly.com/images/e3ca7cd2-3de6-402d-9f66-fe4f7f0b9c34/cisco_ccnp_serviceprovider.png" width="60" title="Cisco CCNP Service Provider"/>
+
+<!-- Cisco Expert Certifications -->
+
+<img src="https://images.credly.com/images/838c1e62-78d4-4214-a51e-f136beabf891/CCIE_Enterprise_large.png" width="60" title="Cisco CCIE Enterprise"/>
+<img src="https://images.credly.com/images/726a322c-efb3-42d7-b87e-8ce8a587ec57/cisco_ccie_security.png" width="60" title="Cisco CCIE Security"/>
+<img src="https://images.credly.com/images/f352403a-abe2-45a4-ab5d-33ff92d35ffb/cisco_ccie_datacenter.png" width="60" title="Cisco CCIE Data Center"/>
+<img src="https://images.credly.com/images/a40c2ad9-04b7-4148-b5f0-974a41515034/cisco_ccie_collaboration.png" width="60" title="Cisco CCIE Collaboration"/>
+<img src="https://images.credly.com/images/c9cbdd73-7805-495e-b935-a481e03641b8/cisco_ccie_serviceprovider.png" width="60" title="Cisco CCIE Service Provider"/>
+
+<!-- GIAC Advanced Certifications -->
+
+<img src="https://images.credly.com/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="60" title="GIAC Certified Incident Handler"/>
+<img src="https://images.credly.com/images/ff692b5b-67a7-40f9-b8c9-8eb6308f4f53/image.png" width="60" title="GIAC Certified Intrusion Analyst"/>
+<img src="https://images.credly.com/images/061f34d8-aa10-44d6-90d2-99ae0b864214/image.png" width="60" title="GIAC Certified Forensic Analyst"/>
+<img src="https://images.credly.com/images/1114bd59-d721-4bc7-90da-a75116056433/image.png" width="60" title="GIAC Certified Forensic Examiner"/>
+<img src="https://images.credly.com/images/0fccb35e-e404-48e1-afdb-d7c17180d024/image.png" width="60" title="GIAC Cloud Security Essentials"/>
+
+</div>
 
 ## GitHub Achievement Gallery
 
