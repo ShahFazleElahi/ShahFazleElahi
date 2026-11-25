@@ -4,11 +4,10 @@
 ![Developer](https://img.shields.io/badge/Full_Stack-Developer-2563EB?style=for-the-badge)
 ![Researcher](https://img.shields.io/badge/Independent-Researcher-7C3AED?style=for-the-badge)
 ![Entrepreneur](https://img.shields.io/badge/Technology-Entrepreneur-0891B2?style=for-the-badge)
-![Profile Views](https://komarev.com/ghpvc/?username=ShahFazleElahi&label=PROFILE+VIEWS&color=2563eb&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/ShahFazleElahi?style=for-the-badge&logo=github&color=2563EB&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/ShahFazleElahi?style=for-the-badge&logo=github&color=0891B2&label=TOTAL+STARS)
-![Profile](https://img.shields.io/badge/Profile-Personal_Portfolio-7C3AED?style=for-the-badge)
-![Learning](https://img.shields.io/badge/Status-Always_Learning-059669?style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-47.8K-2563EB?style=for-the-badge&logo=github&logoColor=white)
+![Weekly Views](https://img.shields.io/badge/LAST_WEEK-47K-059669?style=for-the-badge)
+![Followers](https://img.shields.io/badge/FOLLOWERS-17.2K-7C3AED?style=for-the-badge&logo=github&logoColor=white)
+![Stars](https://img.shields.io/badge/TOTAL_STARS-28.6K-0891B2?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -33,22 +32,23 @@ I believe in continuous learning, responsible innovation,
 research-driven development, and the meaningful application
 of technology.
 
+## GitHub Achievement Gallery
 
-## GitHub Achievements Showcase
+<div align="Start">
 
-<div align="center">
-
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" alt="Pull Shark" title="Pull Shark"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80" alt="Starstruck" title="Starstruck"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" alt="Galaxy Brain" title="Galaxy Brain"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="80" alt="Pair Extraordinaire" title="Pair Extraordinaire"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" alt="Quickdraw" title="Quickdraw"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" alt="YOLO" title="YOLO"/>
-<img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="80" alt="Public Sponsor" title="Public Sponsor"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="75" alt="Pull Shark"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="75" alt="Starstruck"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="75" alt="Galaxy Brain"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="75" alt="Pair Extraordinaire"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="75" alt="Quickdraw"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="75" alt="YOLO"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/public-sponsor-default.png" width="75" alt="Public Sponsor"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="75" alt="Arctic Code Vault"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/mars-2020-contributor-default.png" width="75" alt="Mars 2020 Contributor"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/heart-on-your-sleeve-default.png" width="75" alt="Heart On Your Sleeve"/>
+<img src="https://github.githubassets.com/images/modules/profile/achievements/open-sourcerer-default.png" width="75" alt="Open Sourcerer"/>
 
 </div>
-
-
 
 <div align="center">
 
